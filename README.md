@@ -1,6 +1,9 @@
 - 👋 Hi, I’m Aratrika
-- 👀 I’m interested in coding and sketching
+- 👀 I’m like building cool softwares 
 - 🌱 I’m currently in grade 9
+-  noob coder 
+if you like memes, pizza or tech we should definitely connect
+
 
 <!---
 Aratrikaaaa/Aratrikaaaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
