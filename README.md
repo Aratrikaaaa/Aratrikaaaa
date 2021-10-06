@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Aratrika
 - 👀 I’m like building cool softwares 
 - 🌱 I’m currently in grade 9
--  noob coder 
-if you like memes, pizza or tech we should definitely connect
+-if you like memes, pizza or tech we should definitely connect
 
 
 <!---
