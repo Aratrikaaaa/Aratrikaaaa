@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aratrika
-- 👀 I like building cool softwares 
+- 👀 I like working with different kinds of technology
 - 🌱 I’m currently in grade 9
 - if you like memes, pizza or tech we should definitely connect
 
