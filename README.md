@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aratrika
 - 👀 I like working with different kinds of technology
-- 🌱 I’m currently in grade 9
+- 🌱 I’m currently in grade 10
 - if you like memes, pizza or tech we should definitely connect
 
 
